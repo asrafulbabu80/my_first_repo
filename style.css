@@ -1,0 +1,21 @@
+.container{
+    width: 1170px;
+    overflow: hidden;
+}
+.wrapper{
+    padding: 20px 15px;
+    width: 800px;
+    background: rgb(93, 93, 236);
+    margin: 0 auto;
+    
+}
+.wrapper2 h1{
+    text-align: center;
+}
+.list{
+  padding: 10px 40%;  
+    
+}
+.wrapper .list ul li{
+    list-style: none;
+}
